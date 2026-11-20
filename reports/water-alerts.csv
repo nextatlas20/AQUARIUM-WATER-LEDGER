@@ -1,0 +1,8 @@
+test_date,tank,zone,sample_id,parameter,value,unit,alert_type,service_deadline
+2045-06-01,Kelp-Forest,West,R-112,nitrate,0.5,ppm,LOW,2045-06-03
+2045-06-01,Moon-Jelly,East,R-108,ph,7.6,pH,LOW,2045-06-02
+2045-06-02,Kelp-Forest,West,R-106,salinity,30,ppt,LOW,2045-06-03
+2045-06-03,Coral-Reef,North,R-105,nitrate,6.2,ppm,HIGH,2045-06-04
+2045-06-04,Coral-Reef,North,R-110,oxygen,5,mg/L,LOW,2045-06-04
+2045-06-05,Kelp-Forest,West,R-107,temperature,28,C,HIGH,2045-06-06
+2045-06-08,Coral-Reef,South,R-113,oxygen,5.5,mg/L,LOW,UNSCHEDULED
