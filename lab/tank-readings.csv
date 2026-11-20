@@ -1,0 +1,11 @@
+sample_id,tank,zone,test_date,parameter,value,unit
+R-104,Coral-Reef,North,2045-06-03,nitrate,2.0,ppm
+R-105,Coral-Reef,North,2045-06-03,nitrate,6.2,ppm
+R-106,Kelp-Forest,West,2045-06-02,salinity,30,ppt
+R-107,Kelp-Forest,West,2045-06-05,temperature,28,C
+R-108,Moon-Jelly,East,2045-06-01,ph,7.6,pH
+R-109,Coral-Reef,South,2045-06-04,oxygen,8,mg/L
+R-110,Coral-Reef,North,2045-06-04,oxygen,5,mg/L
+R-111,Moon-Jelly,East,2045-06-02,temperature,25.5,C
+R-112,Kelp-Forest,West,2045-06-01,nitrate,0.5,ppm
+R-113,Coral-Reef,South,2045-06-08,oxygen,5.5,mg/L
